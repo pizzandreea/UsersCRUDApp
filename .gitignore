@@ -4,7 +4,7 @@
 UsersCRUDApp/UsersCRUDApp/bin/
 UsersCRUDApp/UsersCRUDApp/obj/
 UsersCRUDApp/UsersCRUDApp/*.user
-UsersCRUDApp/UsersCRUDApp/*.vs/
+UsersCRUDApp/UsersCRUDApp/.vs/
 UsersCRUDApp/UsersCRUDApp/*.suo
 UsersCRUDApp/UsersCRUDApp/*.log
 UsersCRUDApp/UsersCRUDApp/*.db
