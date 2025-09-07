@@ -20,6 +20,12 @@ Angular CLI for Angular 17 (npm install -g @angular/cli)
 2. ng serve
 3. Default port: http://localhost:4200
 
+| Role  | Email              | Password   |
+|-------|------------------|-----------|
+| Admin | admin@example.com | Admin123! |
+| User  | user@example.com  | User123!  |
+
+
 **Features**
 
 Admin: Access Users page, view list, create/edit/delete users.
