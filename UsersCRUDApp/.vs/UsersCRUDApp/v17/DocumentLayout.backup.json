@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\dtos\\userlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\dtos\\userlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\controllers\\userscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\controllers\\userscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907104351_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersCRUDApp\\Migrations\\20250907104351_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|c:\\users\\ninac\\source\\repos\\userscrudapp\\userscrudapp\\userscrudapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A57458-A938-4DC7-984E-E8FDD3528C1E}|UsersCRUDApp\\UsersCRUDApp.csproj|solutionrelative:userscrudapp\\userscrudapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250907105123_Alter_User_ModifiedBy.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Migrations\\20250907105123_Alter_User_ModifiedBy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:51:23.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250907104351_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907104351_Initial.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Migrations\\20250907104351_Initial.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Migrations\\20250907104351_Initial.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Migrations\\20250907104351_Initial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:43:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "UsersCRUDApp\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:40:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\DTOs\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserUpdateDto.cs",
+              "RelativeToolTip": "UsersCRUDApp\\DTOs\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:28:16.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListItem.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserListItem.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\DTOs\\UserListItem.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\UserListItem.cs",
+              "RelativeToolTip": "UsersCRUDApp\\DTOs\\UserListItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:26:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController .cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Controllers\\UsersController .cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Controllers\\UsersController .cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Controllers\\UsersController .cs",
+              "RelativeToolTip": "UsersCRUDApp\\Controllers\\UsersController .cs",
+              "ViewState": "AgIAALgAAAAAAAAAAADwvy8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:14:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Program.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Program.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:22:45.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Models\\User.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:46:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\appsettings.json",
+              "RelativeToolTip": "UsersCRUDApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T16:02:38.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DbInitializer.cs",
+              "RelativeToolTip": "UsersCRUDApp\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:08:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "UsersCRUDApp\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:21:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Enums\\UserStatus.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Enums\\UserStatus.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Enums\\UserStatus.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Enums\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:00:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\Enums\\UserRole.cs",
+              "RelativeToolTip": "UsersCRUDApp\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:59:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersCRUDApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\UsersCRUDApp.csproj",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\UsersCRUDApp.csproj",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\UsersCRUDApp.csproj",
+              "RelativeToolTip": "UsersCRUDApp\\UsersCRUDApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T19:16:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UsersCRUDApp\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ninac\\source\\repos\\UsersCRUDApp\\UsersCRUDApp\\AppDbContext.cs",
+              "RelativeToolTip": "UsersCRUDApp\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:21:35.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

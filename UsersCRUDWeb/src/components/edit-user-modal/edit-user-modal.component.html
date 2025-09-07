@@ -1,0 +1,77 @@
+<div *ngIf="isOpen" class="modal-backdrop">
+  <div class="modal">
+    <h3>{{ user ? 'Edit User' : 'Add User' }}</h3>
+
+    <form #form="ngForm" (ngSubmit)="save(form)" novalidate>
+      <label>
+        Full Name:
+        <input
+          [(ngModel)]="editedUser.fullName"
+          name="fullName"
+          required
+          minlength="2"
+          [class.invalid]="form.submitted && (!editedUser.fullName || editedUser.fullName.length < 2)"
+        />
+        <span class="error" *ngIf="form.submitted && !editedUser.fullName">
+          Full Name is required.
+        </span>
+        <span class="error" *ngIf="form.submitted && editedUser.fullName && editedUser.fullName.length < 2">
+          Full Name must be at least 2 characters.
+        </span>
+      </label>
+
+      <label>
+        Email:
+        <input
+          [(ngModel)]="editedUser.email"
+          name="email"
+          required
+        />
+        <span class="error" *ngIf="form.submitted && !editedUser.email">
+          Email is required.
+        </span>
+      </label>
+
+      <label *ngIf="!user">
+        Password:
+        <input
+          type="password"
+          [(ngModel)]="editedUser.password"
+          name="password"
+          required
+        />
+        <span class="error" *ngIf="form.submitted && !editedUser.password">
+          Password is required.
+        </span>
+      </label>
+
+      <label>
+        Role:
+        <select [(ngModel)]="editedUser.userRole" name="role" required>
+          <option [value]="0">Admin</option>
+          <option [value]="1">User</option>
+        </select>
+      </label>
+
+      <label>
+        Status:
+        <select [(ngModel)]="editedUser.userStatus" name="status" required>
+          <option [value]="0">Active</option>
+          <option [value]="1">Inactive</option>
+        </select>
+      </label>
+
+      <div class="timestamps" *ngIf="user">
+        <p><strong>Created At:</strong> {{ user.createdAt | date:'short' }}</p>
+        <p><strong>Created By:</strong> {{ user.createdBy || '-' }}</p>
+        <p><strong>Modified At:</strong> {{ user.modifiedAt | date:'short' }}</p>
+        <p><strong>Modified By:</strong> {{ user.modifiedBy || '-' }}</p>
+      </div>
+
+      <div class="actions">
+        <button type="submit">Save</button>
+        <button type="button" (click)="close()">Cancel</button>
+      </div>
+    </form>
+  </div>
+</div>

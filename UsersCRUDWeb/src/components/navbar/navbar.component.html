@@ -1,0 +1,13 @@
+<nav class="navbar">
+  <div class="brand">MyApp</div>
+  <div class="nav-links">
+    <a *ngIf="!(loggedIn$ | async)" routerLink="/login" routerLinkActive="active">Login</a>
+
+    <ng-container *ngIf="loggedIn$ | async">
+      <a routerLink="/home" routerLinkActive="active">Home</a>
+      <a (click)="logout()">Logout</a>
+
+      <a *ngIf="(role$ | async) === 'Admin'" routerLink="/users" routerLinkActive="active">Users</a>
+    </ng-container>
+  </div>
+</nav>

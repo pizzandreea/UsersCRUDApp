@@ -1,0 +1,38 @@
+<div class="users-header">
+  <h2>Users Management</h2>
+  <button (click)="addUser()">Add User</button>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Full Name</th>
+      <th>Email</th>
+      <th>Role</th>
+      <th>Status</th>
+      <th>Created At</th>
+      <th>Created By</th>
+      <th>Modified At</th>
+      <th>Modified By</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users; trackBy: trackByUserId">
+      <td>{{ user.fullName }}</td>
+      <td>{{ user.email }}</td>
+      <td>{{ editModal.getRoleName(user.userRole) }}</td>
+      <td>{{ editModal.getStatusName(user.userStatus) }}</td>
+      <td>{{ user.createdAt | date:'short' }}</td>
+      <td>{{ user.createdBy || '-' }}</td>
+      <td>{{ user.modifiedAt | date:'short' }}</td>
+      <td>{{ user.modifiedBy || '-' }}</td>
+      <td>
+        <button (click)="editUser(user)">Edit</button>
+        <button (click)="deleteUser(user.id)">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<app-edit-user-modal (saved)="onUserSaved($event)"></app-edit-user-modal>

@@ -1,0 +1,27 @@
+# ====================
+# ASP.NET Core / API (api/api/)
+# ====================
+UsersCRUDApp/UsersCRUDApp/bin/
+UsersCRUDApp/UsersCRUDApp/obj/
+UsersCRUDApp/UsersCRUDApp/*.user
+UsersCRUDApp/UsersCRUDApp/*.vs/
+UsersCRUDApp/UsersCRUDApp/*.suo
+UsersCRUDApp/UsersCRUDApp/*.log
+UsersCRUDApp/UsersCRUDApp/*.db
+UsersCRUDApp/UsersCRUDApp/*.vsconfig
+UsersCRUDApp/UsersCRUDApp/appsettings.Development.json
+
+# ====================
+# Angular / Web App (web/)
+# ====================
+UsersCRUDWeb/node_modules/
+UsersCRUDWeb/dist/
+UsersCRUDWeb/out-tsc/
+UsersCRUDWeb/*.log
+UsersCRUDWeb/src/environments/*.ts
+
+# ====================
+# General / IDE
+# ====================
+.vscode/
+*.swp

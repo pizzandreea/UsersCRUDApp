@@ -1,0 +1,9 @@
+@if (user) {
+<div  class="card">
+  <h2>Welcome, {{ user.fullName }}</h2>
+  <p><strong>Email:</strong> {{ user.email }}</p>
+  <p><strong>Role:</strong> {{ user.userRole === UserRole.Admin ? 'Admin' : 'User' }}</p>
+  <p><strong>Status:</strong> {{ user.userStatus === UserStatus.Active ? 'Active' : 'Inactive' }}</p>
+</div>
+
+}
